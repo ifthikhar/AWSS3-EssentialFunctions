@@ -1,0 +1,9 @@
+/Users/e03822/Downloads/pcf-crash-course-with-spring-boot-master/05-currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/service/AWSS3Service.java
+/Users/e03822/Downloads/pcf-crash-course-with-spring-boot-master/05-currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/resource/ExchangeValue.java
+/Users/e03822/Downloads/pcf-crash-course-with-spring-boot-master/05-currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/util/environment/EnvironmentConfigurationLogger.java
+/Users/e03822/Downloads/pcf-crash-course-with-spring-boot-master/05-currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/util/environment/InstanceInformationService.java
+/Users/e03822/Downloads/pcf-crash-course-with-spring-boot-master/05-currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/service/AmazonClient.java
+/Users/e03822/Downloads/pcf-crash-course-with-spring-boot-master/05-currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/resource/ExchangeValueRepository.java
+/Users/e03822/Downloads/pcf-crash-course-with-spring-boot-master/05-currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/CurrencyExchangeServiceApplicationH2.java
+/Users/e03822/Downloads/pcf-crash-course-with-spring-boot-master/05-currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/security/SecurityConfiguration.java
+/Users/e03822/Downloads/pcf-crash-course-with-spring-boot-master/05-currency-exchange-service/src/main/java/com/in28minutes/microservices/currencyexchangeservice/resource/CurrencyExchangeController.java

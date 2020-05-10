@@ -1,0 +1,12 @@
+applications:
+  - name: helloworld-api-Green
+    disk_quota: 1G
+    instances: 1
+    memory: 1G
+    path: target/currency-exchange-service.jar
+    timeout: 120
+    routes:
+      - route: helloworld-api-green-ifthi-1.cfapps.io
+    buildpacks:
+      - https://github.com/cloudfoundry/java-buildpack.git
+    stack: cflinuxfs3
